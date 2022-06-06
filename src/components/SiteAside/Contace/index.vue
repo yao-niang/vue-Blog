@@ -18,8 +18,8 @@
         
         <a href="#">
             <div class="icon">
-             <Icon  type="QQ"></Icon>
-            <span>2384636535</span>   
+             <Icon  type="weixin"></Icon>
+            <span>暂不外露</span>   
             </div>
             
         </a>
@@ -31,8 +31,8 @@
         
         <a href="#">
             <div class="icon">
-             <Icon  type="QQ"></Icon>
-            <span>2384636535</span>   
+             <Icon  type="youxiang"></Icon>
+            <span>2384636535@qq.com</span>   
             </div>
             
         </a>
@@ -44,10 +44,10 @@
         
         <a href="#">
             <div class="icon">
-             <Icon  type="QQ"></Icon>
-            <span>2384636535</span>   
+             <Icon class="icon-icon"  type="github"></Icon>
+    
             </div>
-            
+             <span>yao-niang</span>   
         </a>
         <div class="pop">
           <img src="https://img2.baidu.com/it/u=2743606418,860531633&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500" alt="" />
@@ -95,10 +95,12 @@ export default {
       margin-left: 5px;
       margin-bottom: 21px;
     }
-    .iocn {
-      font-size: 26px;
-      width: 36px;
-      height: 36px;
+    .icon {
+      font-size: 16px;
+      i{
+        margin-right: 4px;
+      }
+      
     }
   }
   .pop {

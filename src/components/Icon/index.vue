@@ -9,7 +9,15 @@ const ClassMap = {
     'wushuju':'icon-wushuju',
     'error':'icon-jinggao',
     'xiangshang':'icon-xiangshang',
-    'xiangxia':'icon-xiangxia'
+    'xiangxia':'icon-xiangxia',
+    'guanyu':'icon-guanyuwomen',
+    'weixin':'icon-weixin',
+    'wenzhang':'icon-wenzhang',
+    'youxiang':'icon-youxiang',
+    'xiangmu':'icon-xiangmu',
+    'liuyanban':'icon-liuyanban-05',
+    'github':'icon-github',
+    'shouye':'icon-shouye'
 
 
 }
@@ -34,7 +42,7 @@ export default {
 </script>
 
 <style scoped>
-@import url('//at.alicdn.com/t/font_3200758_66i5c8xt1vd.css');
+@import url('//at.alicdn.com/t/font_3430541_v67s0u1fobi.css');
 
 .iconfont{
     font-family:"iconfont" !important;

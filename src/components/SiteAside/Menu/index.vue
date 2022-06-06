@@ -30,31 +30,31 @@ export default {
         {
           name: "Home",
           title: "首页",
-          icon: "QQ",
+          icon: "shouye",
           exact:true
         },
         {
           name: "Blog",
           title: "文章",
-          icon: "QQ",
+          icon: "wenzhang",
           exact:false
         },
         {
           name: "About",
           title: "关于我",
-          icon: "QQ",
+          icon: "guanyu",
           exact:true
         },
         {
           name: "Project",
           title: "项目&效果",
-          icon: "QQ",
+          icon: "xiangmu",
           exact:true
         },
         {
           name: "Message",
           title: "留言板",
-          icon: "QQ",
+          icon: "liuyanban",
           exact:true
         },
       ],
